@@ -1,0 +1,10 @@
+pk_wrap.c:63:12:rsa_can_do	0	static
+pk_wrap.c:171:13:rsa_debug	0	static
+pk_wrap.c:165:13:rsa_free_wrap	8	static
+pk_wrap.c:155:14:rsa_alloc_wrap	8	static
+pk_wrap.c:149:12:rsa_check_pair_wrap	0	static
+pk_wrap.c:69:15:rsa_get_bitlen	8	static
+pk_wrap.c:134:12:rsa_encrypt_wrap	40	static
+pk_wrap.c:120:12:rsa_decrypt_wrap	40	static
+pk_wrap.c:102:12:rsa_sign_wrap	40	static
+pk_wrap.c:75:12:rsa_verify_wrap	48	static

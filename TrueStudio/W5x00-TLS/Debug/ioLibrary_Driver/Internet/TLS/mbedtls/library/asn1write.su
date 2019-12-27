@@ -1,0 +1,14 @@
+asn1write.c:42:5:mbedtls_asn1_write_len	0	static
+asn1write.c:102:5:mbedtls_asn1_write_tag	0	static
+asn1write.c:112:5:mbedtls_asn1_write_raw_buffer	16	static
+asn1write.c:128:5:mbedtls_asn1_write_mpi	24	static
+asn1write.c:165:5:mbedtls_asn1_write_null	16	static
+asn1write.c:178:5:mbedtls_asn1_write_oid	16	static
+asn1write.c:192:5:mbedtls_asn1_write_algorithm_identifier	24	static
+asn1write.c:213:5:mbedtls_asn1_write_bool	16	static
+asn1write.c:230:5:mbedtls_asn1_write_int	16	static
+asn1write.c:260:5:mbedtls_asn1_write_printable_string	16	static
+asn1write.c:275:5:mbedtls_asn1_write_ia5_string	16	static
+asn1write.c:290:5:mbedtls_asn1_write_bitstring	24	static
+asn1write.c:317:5:mbedtls_asn1_write_octet_string	16	static
+asn1write.c:331:26:mbedtls_asn1_store_named_data	40	static

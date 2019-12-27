@@ -1,0 +1,17 @@
+MQTTPacket.c:103:5:bufchar	16	static
+MQTTPacket.c:29:5:MQTTPacket_encode	12	static
+MQTTPacket.c:54:5:MQTTPacket_decode	32	static
+MQTTPacket.c:84:5:MQTTPacket_len	0	static
+MQTTPacket.c:113:5:MQTTPacket_decodeBuf	0	static
+MQTTPacket.c:125:5:readInt	0	static
+MQTTPacket.c:139:6:readChar	0	static
+MQTTPacket.c:152:6:writeChar	0	static
+MQTTPacket.c:164:6:writeInt	0	static
+MQTTPacket.c:178:6:writeCString	16	static
+MQTTPacket.c:187:5:getLenStringLen	0	static
+MQTTPacket.c:194:6:writeMQTTString	32	static
+MQTTPacket.c:215:5:readMQTTLenString	16	static
+MQTTPacket.c:242:5:MQTTstrlen	16	static
+MQTTPacket.c:260:5:MQTTPacket_equals	16	static
+MQTTPacket.c:290:5:MQTTPacket_read	24	static
+MQTTPacket.c:361:5:MQTTPacket_readnb	24	static

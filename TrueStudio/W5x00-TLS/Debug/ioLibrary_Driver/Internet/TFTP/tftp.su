@@ -1,0 +1,10 @@
+tftp.c:200:13:init_tftp	0	static
+tftp.c:218:13:tftp_cancel_timeout	0	static
+tftp.c:226:13:tftp_reg_timeout	0	static
+tftp.c:239:13:send_tftp_rrq.constprop	1552	static
+tftp.c:327:13:send_tftp_ack	32	static
+tftp.c:575:6:TFTP_init	24	static
+tftp.c:583:6:TFTP_exit	8	static
+tftp.c:593:5:TFTP_run	56	static
+tftp.c:645:6:TFTP_read_request	8	static
+tftp.c:656:6:tftp_timeout_handler	0	static

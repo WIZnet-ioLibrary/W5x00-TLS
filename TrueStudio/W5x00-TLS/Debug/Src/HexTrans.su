@@ -1,0 +1,2 @@
+HexTrans.c:12:6:char2hex	0	static
+HexTrans.c:35:6:string_print_Hex	40	static

@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.atollic.truestudio.exe.debug.1518366166/-DMBEDTLS_CONFIG_FILE/delimiter=;
+environment/project/com.atollic.truestudio.exe.debug.1518366166/-DMBEDTLS_CONFIG_FILE/operation=replace
+environment/project/com.atollic.truestudio.exe.debug.1518366166/-DMBEDTLS_CONFIG_FILE/value=${ProjDirPath}\\..\\..\\ioLibrary_Driver\\Internet\\Security/SSLConfig.h
+environment/project/com.atollic.truestudio.exe.debug.1518366166/PROJECT/delimiter=;
+environment/project/com.atollic.truestudio.exe.debug.1518366166/PROJECT/operation=append
+environment/project/com.atollic.truestudio.exe.debug.1518366166/PROJECT/value=${ProjDirPath}
+environment/project/com.atollic.truestudio.exe.debug.1518366166/append=true
+environment/project/com.atollic.truestudio.exe.debug.1518366166/appendContributed=true

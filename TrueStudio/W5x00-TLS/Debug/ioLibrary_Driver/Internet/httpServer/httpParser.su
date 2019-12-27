@@ -1,0 +1,10 @@
+httpParser.c:387:16:C2D	0	static
+httpParser.c:26:6:unescape_http_url	24	static
+httpParser.c:45:6:make_http_response_head	32	static
+httpParser.c:92:6:find_http_uri_type	16	static
+httpParser.c:127:6:parse_http_request	16	static
+httpParser.c:281:9:get_http_uri_name	16	static
+httpParser.c:327:10:ATOI	16	static
+httpParser.c:302:6:inet_addr_	48	static
+httpParser.c:348:6:mid	24	static
+httpParser.c:204:11:get_http_param_value	40	static

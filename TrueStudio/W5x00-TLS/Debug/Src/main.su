@@ -1,0 +1,5 @@
+main.c:82:5:_write	24	static
+main.c:200:6:SystemClock_Config	88	static
+main.c:331:6:print_network_information	24	static
+main.c:104:5:main	56	static
+main.c:346:6:Error_Handler	0	static

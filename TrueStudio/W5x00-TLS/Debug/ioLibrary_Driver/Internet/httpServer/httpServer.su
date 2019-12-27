@@ -1,0 +1,16 @@
+httpServer.c:66:6:default_wdt_reset	0	static
+httpServer.c:461:13:send_http_response_cgi	32	static
+httpServer.c:262:13:send_http_response_header	16	static
+httpServer.c:65:6:default_mcu_reset	0	static
+httpServer.c:70:6:httpServer_Sockinit	8	static
+httpServer.c:97:6:httpServer_init	4	static
+httpServer.c:109:6:reg_httpServer_cbfunc	0	static
+httpServer.c:651:6:httpServer_time_handler	0	static
+httpServer.c:656:10:get_httpServer_timecount	0	static
+httpServer.c:661:6:reg_httpServer_webContent	32	static
+httpServer.c:686:9:display_reg_webContent_list	32	static
+httpServer.c:715:9:find_userReg_webContent	48	static
+httpServer.c:734:10:read_userReg_webContent	16	static
+httpServer.c:309:13:send_http_response_body	48	static
+httpServer.c:487:13:http_process_handler	552	static
+httpServer.c:117:6:httpServer_run	64	static

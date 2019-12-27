@@ -1,0 +1,14 @@
+ctr_drbg.c:53:13:mbedtls_zeroize	0	static
+ctr_drbg.c:146:12:block_cipher_df	824	static
+ctr_drbg.c:263:12:ctr_drbg_update_internal	72	static
+ctr_drbg.c:60:6:mbedtls_ctr_drbg_init	0	static
+ctr_drbg.c:119:6:mbedtls_ctr_drbg_free	8	static
+ctr_drbg.c:131:6:mbedtls_ctr_drbg_set_prediction_resistance	0	static
+ctr_drbg.c:136:6:mbedtls_ctr_drbg_set_entropy_len	0	static
+ctr_drbg.c:141:6:mbedtls_ctr_drbg_set_reseed_interval	0	static
+ctr_drbg.c:308:6:mbedtls_ctr_drbg_update	56	static
+ctr_drbg.c:325:5:mbedtls_ctr_drbg_reseed	408	static
+ctr_drbg.c:73:5:mbedtls_ctr_drbg_seed_entropy_len	56	static
+ctr_drbg.c:109:5:mbedtls_ctr_drbg_seed	16	static
+ctr_drbg.c:378:5:mbedtls_ctr_drbg_random_with_add	96	static
+ctr_drbg.c:457:5:mbedtls_ctr_drbg_random	16	static

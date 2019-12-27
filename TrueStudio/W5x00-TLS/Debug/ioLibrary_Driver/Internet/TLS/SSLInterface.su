@@ -1,0 +1,10 @@
+SSLInterface.c:52:6:WIZnetDebugCB	0	static
+SSLInterface.c:31:5:WIZnetRecv	24	static
+SSLInterface.c:42:5:WIZnetSend	16	static
+SSLInterface.c:63:14:wiz_tls_init	24	static
+SSLInterface.c:143:6:wiz_tls_deinit	8	static
+SSLInterface.c:162:14:wiz_tls_connect	32	static
+SSLInterface.c:206:14:wiz_tls_read	0	static
+SSLInterface.c:211:14:wiz_tls_write	0	static
+SSLInterface.c:217:14:wiz_tls_x509_verify	8	static
+SSLInterface.c:246:14:wiz_tls_close_notify	8	static

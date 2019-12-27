@@ -1,0 +1,10 @@
+MQTTFormat.c:31:13:MQTTPacket_getName	0	static
+MQTTFormat.c:37:5:MQTTStringFormat_connect	48	static
+MQTTFormat.c:61:5:MQTTStringFormat_connack	16	static
+MQTTFormat.c:68:5:MQTTStringFormat_publish	48	static
+MQTTFormat.c:80:5:MQTTStringFormat_ack	32	static
+MQTTFormat.c:89:5:MQTTStringFormat_subscribe	40	static
+MQTTFormat.c:100:5:MQTTStringFormat_suback	16	static
+MQTTFormat.c:107:5:MQTTStringFormat_unsubscribe	32	static
+MQTTFormat.c:117:7:MQTTFormat_toClientString	96	static
+MQTTFormat.c:183:7:MQTTFormat_toServerString	176	static

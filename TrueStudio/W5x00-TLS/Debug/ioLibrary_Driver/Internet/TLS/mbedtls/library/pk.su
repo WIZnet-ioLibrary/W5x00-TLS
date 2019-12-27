@@ -1,0 +1,15 @@
+pk.c:54:6:mbedtls_pk_init	0	static
+pk.c:66:6:mbedtls_pk_free	8	static
+pk.c:79:27:mbedtls_pk_info_from_type	0	static
+pk.c:105:5:mbedtls_pk_setup	16	static
+pk.c:152:5:mbedtls_pk_can_do	0	static
+pk.c:181:5:mbedtls_pk_verify	32	static
+pk.c:199:5:mbedtls_pk_verify_ext	40	static
+pk.c:257:5:mbedtls_pk_sign	32	static
+pk.c:276:5:mbedtls_pk_decrypt	20	static
+pk.c:294:5:mbedtls_pk_encrypt	20	static
+pk.c:312:5:mbedtls_pk_check_pair	8	static
+pk.c:338:8:mbedtls_pk_get_bitlen	0	static
+pk.c:349:5:mbedtls_pk_debug	8	static
+pk.c:364:13:mbedtls_pk_get_name	0	static
+pk.c:375:19:mbedtls_pk_get_type	0	static
