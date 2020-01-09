@@ -1,8 +1,0 @@
-debug.c:63:20:debug_send_line.isra.0	4	static
-debug.c:214:6:mbedtls_debug_print_mpi.part.1	576	static
-debug.c:55:6:mbedtls_debug_set_threshold	0	static
-debug.c:81:6:mbedtls_debug_print_msg	552	static
-debug.c:118:6:mbedtls_debug_print_ret	544	static
-debug.c:141:6:mbedtls_debug_print_buf	584	static
-debug.c:214:6:mbedtls_debug_print_mpi	16	static
-debug.c:341:6:mbedtls_debug_print_crt	2120	static

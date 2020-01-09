@@ -39,7 +39,6 @@
 #define ETH_MAX_BUF_SIZE	2048
 #define SERVER_PORT			8883
 //#define SERVER_PORT			1883
-#define SOCK_SMTP			0
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -104,7 +103,7 @@ int _write(int fd, char *str, int len)
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-  int len, rc, server_fd = 0;
+  int len, server_fd = 0;
   unsigned int ret = 0;
   wiz_tls_context tlsContext;
   /* USER CODE END 1 */
